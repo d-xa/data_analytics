@@ -1,8 +1,8 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: Jupyter Book Project
-author: Author Name
+title: Advanced Data Analytics 
+author: X. Anh Do
 #logo: logo.png
 
 # Force re-execution of notebooks on each build.
